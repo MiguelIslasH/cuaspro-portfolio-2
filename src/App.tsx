@@ -1,4 +1,3 @@
-import React from "react";
 import "./App.css";
 import { FaYoutube, FaTiktok, FaTwitter } from "react-icons/fa";
 
